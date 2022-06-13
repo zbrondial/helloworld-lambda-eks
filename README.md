@@ -59,7 +59,14 @@ terraform plan
 terraform apply
 ```
 
-## Testing and Deploying the Flask Webapp in Kubernetes and AWS EKS
+## Accessing and Testing the Application
+
+- https://sayhello.zi-zd.com/
+- Enter the Hello World API URL
+  -- https://u99w0hvk0m.execute-api.ap-southeast-1.amazonaws.com/hw
+  ![Say Hello Web](/assets/sayhello_app_web.png)
+
+## Local App Testing (docker and k8s) and Deploying the Flask Webapp in AWS EKS
 
 Please access the below repository for the procedure
 
